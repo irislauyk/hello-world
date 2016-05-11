@@ -1,3 +1,4 @@
 # hello-world
-first repository - hello world tutorial
-new line - change to be commit
+first repository
+- running hello world tutorial
+- https://guides.github.com/activities/hello-world/
